@@ -7,13 +7,6 @@
 To install **shit**. Simply run the following command:
 
 ```bash
-brew tap ezrantn/shit https://github.com/ezrantn/shit
-brew install shit
-```
-
-Alternatively, if you have Go installed, you can run the following command:
-
-```bash
 go install github.com/ezrantn/shit@latest
 ```
 

@@ -24,4 +24,4 @@ shit Discord
 
 ## License
 
-MIT License
+This tool doesn’t have a license - use it however you like, just don’t sue me if things go sideways.
